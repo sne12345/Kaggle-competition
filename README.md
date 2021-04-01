@@ -3,7 +3,7 @@
 
 # .ipynb 파일이 안 열릴 경우
 .py 파일을 열거나 clone해서 확인 부탁드립니다.  
-
+<br />
 
 # XGBoost 파라미터  
 ▶ n_estimators [default = 100] : 나무의 개수 (=num_boost_round [default = 10] : 파이썬 래퍼에서 적용)
