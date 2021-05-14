@@ -5,4 +5,4 @@
 0.69758 ( LogLoss )
 
 # 등수 : 93등
-![image](https://user-images.githubusercontent.com/51853700/113909899-2e171f80-9813-11eb-894d-e87fef9bcb50.png)
+![image](https://user-images.githubusercontent.com/51853700/118308940-8be00b00-b527-11eb-9501-c0ebb33ecb2f.png)
